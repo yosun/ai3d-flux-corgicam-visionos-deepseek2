@@ -8,8 +8,10 @@ Photos by https://instagram.com/corgi.cam or https://x.com/corgi_cam via https:/
 
 # Endpoints: 
 ### Image generation via flux lora corgi.cam 
-- https://replicate.com/yosun/camcorgi-flux - https://x.com/corgi_cam/status/1832563733945839950 
-- https://fal.ai/models/fal-ai/flux-lora/playground?share=49b274d8-79c0-4bdb-836a-ebe5f8f2136b - https://x.com/corgi_cam/status/1832567251121434892
+- https://replicate.com/yosun/camcorgi-flux
+   - https://x.com/corgi_cam/status/1832563733945839950 
+- https://fal.ai/models/fal-ai/flux-lora/playground?share=49b274d8-79c0-4bdb-836a-ebe5f8f2136b
+   - https://x.com/corgi_cam/status/1832567251121434892
 
 ### Image2Mesh by Stability 3D 
 - https://platform.stability.ai/docs/api-reference
