@@ -1,5 +1,5 @@
 
-Experiment: Can Deepseek2 generate an ai3d corgi.cam visionOS app in less than an hour? 
+Experiment: Can Deepseek2 generate an ai3d corgi.cam visionOS app in less than an hour? (Mostly, a few human mods - and it was easier to just write the delegate connecting script myself) 
 
 
 Install: Drop in Unity 6 visionOS build endpoint - gameobject, include gltf package, materials etc, subscribe delegates etc 
