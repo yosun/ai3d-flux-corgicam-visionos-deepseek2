@@ -1,6 +1,8 @@
 
 Deepseek2 generated ai3d corgi.cam app 
-Drop in Unity 6 visionOS build endpoing - subscribe delegates etc 
+
+
+Drop in Unity 6 visionOS build endpoint - gameobject, subscribe delegates etc 
 
 Photos by https://instagram.com/corgi.cam or https://x.com/corgi_cam via https://x.com/Yosun/status/1832549683845329373 
 
