@@ -7,7 +7,7 @@ using GLTFast; // Ensure you have the GLTFast package installed
 public class Post2Stability : MonoBehaviour
 {
     private string apiUrl = "https://api.stability.ai/v2beta/3d/stable-fast-3d";
-    private string apiKey = "Bearer FAL API KEY HERE"; // Replace with your actual API key
+    private string apiKey = "Bearer stability API KEY HERE"; // Replace with your actual API key
      
 
     Texture2D LoadTextureFromFile(string filePath)
