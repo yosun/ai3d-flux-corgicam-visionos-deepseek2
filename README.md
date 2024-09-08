@@ -2,7 +2,7 @@
 Experiment: Can Deepseek2 generate an ai3d corgi.cam visionOS app in less than an hour? (Mostly, a few human mods - and it was easier to just write the delegate connecting script myself) 
 
 
-Install: Drop in Unity 6 visionOS build endpoint - gameobject, include gltf package, materials etc, subscribe delegates etc 
+Install: Drop in Unity 6 visionOS build endpoint (should also work with ios/Android builds as well) - gameobject, include gltf package, materials etc, subscribe delegates etc 
 
 Photos by https://instagram.com/corgi.cam or https://x.com/corgi_cam via https://x.com/Yosun/status/1832549683845329373 
 
